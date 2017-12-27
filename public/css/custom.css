@@ -29,8 +29,10 @@
 #mainNav.navbar-shrink .navbar-brand {
           color: #73b849; 
       }
+/*
 #mainNav.navbar-shrink .fa-logo{
           content:url("../img/logoV1.png"); }
+*/
 #mainNav.navbar-shrink .navbar-brand:focus, #mainNav.navbar-shrink .navbar-brand:hover {
             color: #F05F40; }
 #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link,
@@ -105,6 +107,10 @@ header.masthead h1 {
   color: #005826 !important;
 }
 
+.text-green2 {
+  color: #73b849 !important;
+}
+
 .text-orange {
   color: #F05F40 !important;
 }
@@ -125,15 +131,25 @@ header.masthead h1 {
 }
 
 .fa-poste:before{
-	content:url("../img/panel.png");
+	
+	/*content:url("../img/panel.svg");*/
+
+	background-image: url("../img/panel.svg");
+    background-size: 60px 64px;
+    display: inline-block;
+    width: 60px; 
+    height: 64px;
+    content:"";
 }
 
+/*
 #logoNav.fa-logo:hover{
 	content:url("../img/logoN.png");
 }
+*/
 
 .fa-4xCust {
-  font-size: 68px;
+  font-size: 55px;
 }
 
 .portfolio-box .portfolio-box-caption {
