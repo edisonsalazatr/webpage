@@ -447,3 +447,53 @@ section#contact {
     font-weight: 700;
     color: #ced4da;
     font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+
+
+section.featuresCust .section-heading {
+  margin-bottom: 100px;
+}
+
+section.featuresCust .section-heading h2 {
+  margin-top: 0;
+}
+
+section.featuresCust .section-heading p {
+  margin-bottom: 0;
+}
+
+section.featuresCust .device-container,
+section.featuresCust .featureCust-item {
+  max-width: 325px;
+  margin: 0 auto;
+  color: #F05F40; 
+}
+
+section.featuresCust .device-container {
+  margin-bottom: 100px;
+}
+
+@media (min-width: 992px) {
+  section.featuresCust .device-container {
+    margin-bottom: 0;
+  }
+}
+
+section.featuresCust .featureCust-item {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+section.featuresCust .featureCust-item h3 {
+  font-size: 30px;
+}
+
+section.featuresCust .featureCust-item i {
+  color: #ced4da;
+  font-size: 80px;
+  display: block;
+  margin-bottom: 15px;
+  background: -webkit-linear-gradient(to left, #7b4397, #dc2430);
+  background: linear-gradient(to left, #7b4397, #dc2430);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
