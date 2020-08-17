@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+   <url>
+      <loc>http://www.mgp.ec</loc>
+      <lastmod>2020-08-15</lastmod>
+      <changefreq>yearly</changefreq>
+   </url>
+
+   <url>
+      <loc>http://www.mgp.ec/index.html</loc>
+      <lastmod>2020-08-15</lastmod>
+      <changefreq>yearly</changefreq>
+   </url>
+
+   <url>
+      <loc>http://www.mgp.ec/luminarias.html</loc>
+      <lastmod>2020-08-15</lastmod>
+      <changefreq>yearly</changefreq>
+   </url>
+
+   <url>
+      <loc>http://www.mgp.ec/sistemas_fotovoltaicos.html</loc>
+      <lastmod>2020-08-15</lastmod>
+      <changefreq>yearly</changefreq>
+   </url>
+
+   <url>
+      <loc>http://www.mgp.ec/sistemas_bombeo_agua.html</loc>
+      <lastmod>2020-08-15</lastmod>
+      <changefreq>yearly</changefreq>
+   </url>
+
+   <url>
+      <loc>http://www.mgp.ec/index.html#services</loc>
+      <lastmod>2020-08-15</lastmod>
+      <changefreq>yearly</changefreq>
+   </url>
+
+   <url>
+      <loc>http://www.mgp.ec/index.html#contact</loc>
+      <lastmod>2020-08-15</lastmod>
+      <changefreq>yearly</changefreq>
+   </url>
+
+   <url>
+      <loc>http://www.mgp.ec/index.html#about</loc>
+      <lastmod>2020-08-15</lastmod>
+      <changefreq>yearly</changefreq>
+   </url>
+
+</urlset>
